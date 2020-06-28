@@ -7,7 +7,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   min-height: 740px;
-	background: linear-gradient(0deg, rgba(65,225,30,0.01) 0%, rgba(111,188,217,0.6809116809116809) 87%);
+	background: linear-gradient(90deg, rgba(34,193,195,0.40315160243785) 60%, rgba(111,188,217,0.8809116809116809) 87%);
 
 }
 
