@@ -1,11 +1,10 @@
-## instructions :
+<h4> this code for site showen here https://alaa-shaker.github.io/deploy-robofriend/ </h4>
+## instructions for using code :
 1-   git clone   "linke from green button " <br/>
 2-  cd RoboFriends <br/>
 3-  npm install  <br/>
 4-  npm start <br/>
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
